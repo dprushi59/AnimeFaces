@@ -37,9 +37,6 @@ The discriminator is similar to a image classification CNN which takes in an ima
 # Progress
 <img src="assets/training-progress.gif">
 
-
-- Download the trained weights from [here](https://drive.google.com/drive/folders/1WesJlksOcDhGqwtNJhHKZhN1ehJtZZt4?usp=sharing) for testing
-
 Note: It is advised to train the model on a GPU. Training on a CPU can be time consuming.
 
 # Acknowledgements
